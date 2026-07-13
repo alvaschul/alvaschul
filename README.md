@@ -1,6 +1,12 @@
-# Hey there! 👋
+# Hi there 👋 I'm Alva
 
-Welcome to my GitHub profile. I'm a passionate **AI agent developer** and automation enthusiast building intelligent solutions for the future.
+> **AI agent developer & automation enthusiast** building intelligent, efficient systems for the future.
+
+<p align="center">
+  <a href="https://github.com/alvaschul"><img src="https://img.shields.io/badge/status-actively%20building-blue?style=flat-square" alt="Status"></a>
+  <a href="https://github.com/alvaschul"><img src="https://img.shields.io/badge/focus-AI%20%7C%20automation%20%7C%20Web3-9cf?style=flat-square" alt="Focus"></a>
+  <img src="https://komarev.com/ghpvc/?username=alvaschul&style=flat-square&color=blue" alt="Visitor Count">
+</p>
 
 ---
 
@@ -9,10 +15,13 @@ Welcome to my GitHub profile. I'm a passionate **AI agent developer** and automa
 I specialize in **AI agent orchestration**, **workflow automation**, and **personal productivity systems**. My goal is to create efficient, intelligent systems that solve real problems.
 
 ### 📍 Quick Facts
-- 🏢 **Current**: Badboy Barbershop (2-year contract starting mid-November)
-- 💡 **Passion**: AI agents, crypto/Web3, automation, and finance optimization
-- 🛠️ **Environment**: Termux-based development, GitHub workflows, API integration
-- 🧠 **Knowledge Hub**: Obsidian-based digital identity management
+
+| | |
+|---|---|
+| 🏢 **Current** | Badboy Barbershop (2-year contract starting mid-November) |
+| 💡 **Passion** | AI agents, crypto/Web3, automation, and finance optimization |
+| 🛠️ **Environment** | Termux-based development, GitHub workflows, API integration |
+| 🧠 **Knowledge Hub** | Obsidian-based digital identity management |
 
 ---
 
@@ -30,7 +39,7 @@ I specialize in **AI agent orchestration**, **workflow automation**, and **perso
 ## 🌱 Currently Learning
 
 - 🤖 Advanced AI agent coordination patterns
-- 🏗️ Multi-agent system architectures  
+- 🏗️ Multi-agent system architectures
 - ⛓️ Web3 and cryptocurrency ecosystem
 - 🔄 Cross-platform automation solutions
 - 🔐 Post-quantum cryptography migration
@@ -59,15 +68,41 @@ I specialize in **AI agent orchestration**, **workflow automation**, and **perso
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alvaschul&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaschul&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvaschul&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=alvaschul&theme=tokyonight&no-frame=true&margin-w=8" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+## 🔔 Recent Activity
+
+<!--START_SECTION:recent_activity-->
+<!--END_SECTION:recent_activity-->
+
+---
+
 ## 🤝 Let's Collaborate!
 
 I'm actively looking to work on:
 
-✨ AI agent automation projects  
-💰 Personal finance tracking systems  
-🧠 Obsidian integration workflows  
-⛓️ Web3 tooling and automation  
-🔄 Cross-platform workflow solutions
+- ✨ AI agent automation projects
+- 💰 Personal finance tracking systems
+- 🧠 Obsidian integration workflows
+- ⛓️ Web3 tooling and automation
+- 🔄 Cross-platform workflow solutions
 
 ---
 
@@ -80,7 +115,6 @@ I'm actively looking to work on:
 
 > *"Building intelligent systems for a more efficient future"*
 
----
-
-**Last Updated**: 2026  
-✌️ **Status**: Actively building & learning
+<!--START_SECTION:last_updated-->
+<p align="center"><sub>Last updated: 2026</sub></p>
+<!--END_SECTION:last_updated-->
