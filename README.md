@@ -90,11 +90,11 @@ I specialize in **AI agent orchestration**, **workflow automation**, and **perso
 ## 🔔 Recent Activity
 
 <!--START_SECTION:recent_activity-->
+- [alvaschul/alvaschul](https://github.com/alvaschul/alvaschul) &mdash; PullRequestEvent _2026-07-13_
+- [alvaschul/alvaschul](https://github.com/alvaschul/alvaschul) &mdash; PushEvent _2026-07-13_
+- [alvaschul/alvaschul](https://github.com/alvaschul/alvaschul) &mdash; PullRequestEvent _2026-07-13_
 - [alvaschul/alvaschul](https://github.com/alvaschul/alvaschul) &mdash; CreateEvent _2026-07-13_
 - [alvaschul/alvaschul](https://github.com/alvaschul/alvaschul) &mdash; PushEvent _2026-07-09_
-- [alvaschul/termux-video-tools](https://github.com/alvaschul/termux-video-tools) &mdash; PushEvent _2026-07-08_
-- [alvaschul/termux-video-tools](https://github.com/alvaschul/termux-video-tools) &mdash; PushEvent _2026-07-08_
-- [alvaschul/termux-video-tools](https://github.com/alvaschul/termux-video-tools) &mdash; PushEvent _2026-07-08_
 <!--END_SECTION:recent_activity-->
 
 ---
