@@ -90,11 +90,11 @@ I specialize in **AI agent orchestration**, **workflow automation**, and **perso
 ## 🔔 Recent Activity
 
 <!--START_SECTION:recent_activity-->
-- [alvaschul/alvaschul](https://github.com/alvaschul/alvaschul) &mdash; PullRequestEvent _2026-07-13_
-- [alvaschul/alvaschul](https://github.com/alvaschul/alvaschul) &mdash; PushEvent _2026-07-13_
-- [alvaschul/alvaschul](https://github.com/alvaschul/alvaschul) &mdash; PullRequestEvent _2026-07-13_
-- [alvaschul/alvaschul](https://github.com/alvaschul/alvaschul) &mdash; CreateEvent _2026-07-13_
-- [alvaschul/alvaschul](https://github.com/alvaschul/alvaschul) &mdash; PushEvent _2026-07-09_
+- [alvaschul/hf-space-crypto-portfolio](https://github.com/alvaschul/hf-space-crypto-portfolio) &mdash; PushEvent _2026-07-13_
+- [alvaschul/hf-space-crypto-portfolio](https://github.com/alvaschul/hf-space-crypto-portfolio) &mdash; PullRequestEvent _2026-07-13_
+- [alvaschul/hf-space-crypto-portfolio](https://github.com/alvaschul/hf-space-crypto-portfolio) &mdash; PullRequestEvent _2026-07-13_
+- [alvaschul/hf-space-crypto-portfolio](https://github.com/alvaschul/hf-space-crypto-portfolio) &mdash; CreateEvent _2026-07-13_
+- [alvaschul/hf-space-crypto-portfolio](https://github.com/alvaschul/hf-space-crypto-portfolio) &mdash; CreateEvent _2026-07-13_
 <!--END_SECTION:recent_activity-->
 
 ---
@@ -121,5 +121,5 @@ I'm actively looking to work on:
 > *"Building intelligent systems for a more efficient future"*
 
 <!--START_SECTION:last_updated-->
-<p align="center"><sub>Last updated: 2026-07-13</sub></p>
+<p align="center"><sub>Last updated: 2026-07-14</sub></p>
 <!--END_SECTION:last_updated-->
