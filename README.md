@@ -90,11 +90,11 @@ I specialize in **AI agent orchestration**, **workflow automation**, and **perso
 ## 🔔 Recent Activity
 
 <!--START_SECTION:recent_activity-->
-- [alvaschul/hf-space-crypto-portfolio](https://github.com/alvaschul/hf-space-crypto-portfolio) &mdash; PushEvent _2026-07-13_
-- [alvaschul/hf-space-crypto-portfolio](https://github.com/alvaschul/hf-space-crypto-portfolio) &mdash; PullRequestEvent _2026-07-13_
-- [alvaschul/hf-space-crypto-portfolio](https://github.com/alvaschul/hf-space-crypto-portfolio) &mdash; PullRequestEvent _2026-07-13_
-- [alvaschul/hf-space-crypto-portfolio](https://github.com/alvaschul/hf-space-crypto-portfolio) &mdash; CreateEvent _2026-07-13_
-- [alvaschul/hf-space-crypto-portfolio](https://github.com/alvaschul/hf-space-crypto-portfolio) &mdash; CreateEvent _2026-07-13_
+- [alvaschul/termux-video-tools](https://github.com/alvaschul/termux-video-tools) &mdash; PushEvent _2026-07-16_
+- [alvaschul/termux-video-tools](https://github.com/alvaschul/termux-video-tools) &mdash; PushEvent _2026-07-16_
+- [alvaschul/termux-video-tools](https://github.com/alvaschul/termux-video-tools) &mdash; PushEvent _2026-07-16_
+- [alvaschul/termux-video-tools](https://github.com/alvaschul/termux-video-tools) &mdash; PushEvent _2026-07-16_
+- [alvaschul/termux-video-tools](https://github.com/alvaschul/termux-video-tools) &mdash; PushEvent _2026-07-16_
 <!--END_SECTION:recent_activity-->
 
 ---
@@ -121,5 +121,5 @@ I'm actively looking to work on:
 > *"Building intelligent systems for a more efficient future"*
 
 <!--START_SECTION:last_updated-->
-<p align="center"><sub>Last updated: 2026-07-15</sub></p>
+<p align="center"><sub>Last updated: 2026-07-16</sub></p>
 <!--END_SECTION:last_updated-->
