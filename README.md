@@ -90,11 +90,11 @@ I specialize in **AI agent orchestration**, **workflow automation**, and **perso
 ## 🔔 Recent Activity
 
 <!--START_SECTION:recent_activity-->
-- [alvaschul/termux-video-tools](https://github.com/alvaschul/termux-video-tools) &mdash; PushEvent _2026-07-16_
-- [alvaschul/termux-video-tools](https://github.com/alvaschul/termux-video-tools) &mdash; PushEvent _2026-07-16_
-- [alvaschul/termux-video-tools](https://github.com/alvaschul/termux-video-tools) &mdash; PushEvent _2026-07-16_
-- [alvaschul/termux-video-tools](https://github.com/alvaschul/termux-video-tools) &mdash; PushEvent _2026-07-16_
-- [alvaschul/termux-video-tools](https://github.com/alvaschul/termux-video-tools) &mdash; PushEvent _2026-07-16_
+- [alvaschul/alvaagent](https://github.com/alvaschul/alvaagent) &mdash; PushEvent _2026-08-12_
+- [alvaschul/alvaagent](https://github.com/alvaschul/alvaagent) &mdash; PushEvent _2026-08-12_
+- [alvaschul/alvaagent](https://github.com/alvaschul/alvaagent) &mdash; PushEvent _2026-08-12_
+- [alvaschul/alvaagent](https://github.com/alvaschul/alvaagent) &mdash; PushEvent _2026-08-12_
+- [alvaschul/alvaagent](https://github.com/alvaschul/alvaagent) &mdash; PushEvent _2026-08-11_
 <!--END_SECTION:recent_activity-->
 
 ---
@@ -121,5 +121,5 @@ I'm actively looking to work on:
 > *"Building intelligent systems for a more efficient future"*
 
 <!--START_SECTION:last_updated-->
-<p align="center"><sub>Last updated: 2026-08-11</sub></p>
+<p align="center"><sub>Last updated: 2026-08-12</sub></p>
 <!--END_SECTION:last_updated-->
