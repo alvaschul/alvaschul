@@ -93,8 +93,6 @@ I specialize in **AI agent orchestration**, **workflow automation**, and **perso
 - [alvaschul/barbershop.github.io](https://github.com/alvaschul/barbershop.github.io) &mdash; PushEvent _2026-09-29_
 - [alvaschul/barbershop.github.io](https://github.com/alvaschul/barbershop.github.io) &mdash; PushEvent _2026-09-29_
 - [alvaschul/barbershop.github.io](https://github.com/alvaschul/barbershop.github.io) &mdash; PushEvent _2026-09-26_
-- [alvaschul/barbershop.github.io](https://github.com/alvaschul/barbershop.github.io) &mdash; PushEvent _2026-09-24_
-- [alvaschul/barbershop.github.io](https://github.com/alvaschul/barbershop.github.io) &mdash; PushEvent _2026-09-24_
 <!--END_SECTION:recent_activity-->
 
 ---
@@ -121,5 +119,5 @@ I'm actively looking to work on:
 > *"Building intelligent systems for a more efficient future"*
 
 <!--START_SECTION:last_updated-->
-<p align="center"><sub>Last updated: 2026-10-24</sub></p>
+<p align="center"><sub>Last updated: 2026-10-25</sub></p>
 <!--END_SECTION:last_updated-->
