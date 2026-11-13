@@ -1,70 +1,65 @@
-# Hi there 👋 I'm Alva
+# Hi, I'm Alva 👋
 
-> **AI agent developer & automation enthusiast** building intelligent, efficient systems for the future.
+**Barber by day, builder the rest of the time.**
+
+I cut hair at **Badboy Barber** in Indonesia — and I build the software around the job: an offline-first POS for the shop, AI agents that run my workflows, and self-hosted infrastructure on a real-world budget.
 
 <p align="center">
-  <a href="https://github.com/alvaschul"><img src="https://img.shields.io/badge/status-actively%20building-blue?style=flat-square" alt="Status"></a>
-  <a href="https://github.com/alvaschul"><img src="https://img.shields.io/badge/focus-AI%20%7C%20automation%20%7C%20Web3-9cf?style=flat-square" alt="Focus"></a>
+  <img src="https://img.shields.io/badge/📍-Indonesia-27ae60?style=flat-square" alt="Indonesia">
+  <img src="https://img.shields.io/badge/status-actively%20building-blue?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/focus-POS%20%7C%20AI%20agents%20%7C%20self--hosting-9cf?style=flat-square" alt="Focus">
   <img src="https://komarev.com/ghpvc/?username=alvaschul&style=flat-square&color=blue" alt="Visitor Count">
 </p>
 
 ---
 
-## 🚀 About Me
+## ✂️ What I actually do
 
-I specialize in **AI agent orchestration**, **workflow automation**, and **personal productivity systems**. My goal is to create efficient, intelligent systems that solve real problems.
-
-### 📍 Quick Facts
-
-| | |
-|---|---|
-| 🏢 **Current** | Badboy Barbershop (2-year contract starting mid-November) |
-| 💡 **Passion** | AI agents, crypto/Web3, automation, and finance optimization |
-| 🛠️ **Environment** | Termux-based development, GitHub workflows, API integration |
-| 🧠 **Knowledge Hub** | Obsidian-based digital identity management |
+- 💈 **Barber (kapster)** at Badboy Barber Jetis — chair work, daily cash and KPI reporting
+- 🛠️ **Build the shop's tools** — POS and report trackers, born from real shifts (see below)
+- 🤖 **Run AI agents daily** — a self-hosted multi-agent server (OpenBot), LLM routing, automation pipelines
+- 🖥️ **Self-host** — Linode and Rumahweb servers, Caddy, GitHub Pages, Termux on Android as a dev box
+- 🎓 **Studying networking** (CCNA) — slowly, between haircuts
 
 ---
 
-## 🔭 Current Focus Areas
+## 🚀 Featured Projects
 
-| Focus | Details |
-|-------|---------|
-| **AI & Automation** | Agent orchestration, multi-agent systems, workflow automation |
-| **Finance & Assets** | Cash flow tracking, KPI monitoring, asset-first mindset |
-| **Knowledge Management** | Structured note-taking, Obsidian integration, 3C/3F protocols |
-| **Digital Efficiency** | Cross-platform automation, minimalism, system integration |
-
----
-
-## 🌱 Currently Learning
-
-- 🤖 Advanced AI agent coordination patterns
-- 🏗️ Multi-agent system architectures
-- ⛓️ Web3 and cryptocurrency ecosystem
-- 🔄 Cross-platform automation solutions
-- 🔐 Post-quantum cryptography migration
+| Project | What it is | Stack |
+|---|---|---|
+| [**barbershop.github.io**](https://github.com/alvaschul/barbershop.github.io) | **Badboy Barber POS** — offline-first point of sale: cashier, services, daily/weekly reports, settings. Live at [alvaschul.github.io/barbershop.github.io](https://alvaschul.github.io/barbershop.github.io/) | React 18, TypeScript, Vite, IndexedDB, Cloudflare D1 |
+| [**alvaagent**](https://github.com/alvaschul/alvaagent) | On-device AI agent harness for Android/Termux | Python |
+| [**termux-video-tools**](https://github.com/alvaschul/termux-video-tools) | Video processing tools for a phone-first workflow | Python |
+| [**hf-space-crypto-portfolio**](https://github.com/alvaschul/hf-space-crypto-portfolio) | Crypto portfolio tracker hosted as a Hugging Face Space | HTML, JavaScript |
+| [**badboy-barber-cloudflare**](https://github.com/alvaschul/badboy-barber-cloudflare) | POS + reporting variant running on Cloudflare | HTML |
+| [**alvaschul.github.io**](https://github.com/alvaschul/alvaschul.github.io) | Personal site | GitHub Pages |
 
 ---
 
-## 💼 Technical Skillset
+## 🧰 Toolbox
 
-### AI & Machine Learning
-- Agent coordination and orchestration
-- Prompt engineering and fine-tuning
-- Workflow automation and optimization
-- LLM integration and API coordination
+<p>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/-Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian">
+</p>
 
-### Development
-- **Languages**: Python, Bash, CLI tools
-- **Tools**: GitHub CLI, API development, Hermes Agent
-- **Platforms**: Android/Termux, Web3 tools, productivity platforms
-- **Infrastructure**: GitHub workflows, automation pipelines
+**Also in rotation:** Ollama and OpenRouter for LLM routing, Google Sheets as a reporting backend, Kaggle GPUs for transcription and rendering, Obsidian for notes.
 
-### Specializations
-- 📊 **Finance**: Asset tracking, cash flow analysis, KPI monitoring
-- 🔗 **Web3**: Cryptocurrency, airdrops, DeFi protocols
-- 🛡️ **Security**: Privacy-focused development, cryptography
-- 📚 **Knowledge Ops**: Digital identity, structured information management
+---
+
+## 🌱 Right Now
+
+- 🎬 Growing a short-form content pipeline — podcast clips in, edited TikTok shorts out
+- 🐛 Security research and bug bounties with AI-assisted recon
+- 📡 CCNA study and small-network experiments for the homelab
 
 ---
 
@@ -76,13 +71,7 @@ I specialize in **AI agent orchestration**, **workflow automation**, and **perso
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvaschul&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alvaschul&theme=tokyonight&no-frame=true&margin-w=8" alt="GitHub Trophies" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=alvaschul&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -99,26 +88,16 @@ I specialize in **AI agent orchestration**, **workflow automation**, and **perso
 
 ---
 
-## 🤝 Let's Collaborate!
+## 🤝 Connect
 
-I'm actively looking to work on:
+<p>
+  <a href="https://x.com/BeeHachy"><img src="https://img.shields.io/badge/-@BeeHachy-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://github.com/alvaschul"><img src="https://img.shields.io/badge/-@alvaschul-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-- ✨ AI agent automation projects
-- 💰 Personal finance tracking systems
-- 🧠 Obsidian integration workflows
-- ⛓️ Web3 tooling and automation
-- 🔄 Cross-platform workflow solutions
+Open to collaborating on **agent tooling**, **small-business software** (POS, trackers, reporting), and **self-hosting setups** that have to survive real life — low budget, phone-first, offline-tolerant.
 
----
-
-## 📬 Connect With Me
-
-- 🔗 **GitHub**: [@alvaschul](https://github.com/alvaschul)
-- 💬 **Open to discussions** on: AI agents, automation, finance optimization, Web3
-
----
-
-> *"Building intelligent systems for a more efficient future"*
+> *Real tools for real work — built from a barber chair in Indonesia.*
 
 <!--START_SECTION:last_updated-->
 <p align="center"><sub>Last updated: 2026-11-13</sub></p>
