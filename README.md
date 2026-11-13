@@ -2,7 +2,7 @@
 
 **Barber by day, builder the rest of the time.**
 
-I cut hair at **Badboy Barber** in Indonesia — and I build the software around the job: an offline-first POS for the shop, AI agents that run my workflows, and self-hosted infrastructure on a real-world budget.
+I'm a barber in Indonesia — and I build software around the craft: an offline-first POS for barbershops, AI agents that run my workflows, and self-hosted infrastructure on a real-world budget.
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍-Indonesia-27ae60?style=flat-square" alt="Indonesia">
@@ -15,8 +15,8 @@ I cut hair at **Badboy Barber** in Indonesia — and I build the software around
 
 ## ✂️ What I actually do
 
-- 💈 **Barber (kapster)** at Badboy Barber Jetis — chair work, daily cash and KPI reporting
-- 🛠️ **Build the shop's tools** — POS and report trackers, born from real shifts (see below)
+- 💈 **Barber (kapster)** — chair work, daily cash and KPI reporting
+- 🛠️ **Build tools for barbershops** — POS and report trackers, born from real shifts (see below)
 - 🤖 **Run AI agents daily** — a self-hosted multi-agent server (OpenBot), LLM routing, automation pipelines
 - 🖥️ **Self-host** — Linode and Rumahweb servers, Caddy, GitHub Pages, Termux on Android as a dev box
 - 🎓 **Studying networking** (CCNA) — slowly, between haircuts
@@ -27,7 +27,7 @@ I cut hair at **Badboy Barber** in Indonesia — and I build the software around
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**barbershop.github.io**](https://github.com/alvaschul/barbershop.github.io) | **Badboy Barber POS** — offline-first point of sale: cashier, services, daily/weekly reports, settings. Live at [alvaschul.github.io/barbershop.github.io](https://alvaschul.github.io/barbershop.github.io/) | React 18, TypeScript, Vite, IndexedDB, Cloudflare D1 |
+| [**barbershop.github.io**](https://github.com/alvaschul/barbershop.github.io) | **Barbershop POS** — offline-first point of sale: cashier, services, daily/weekly reports, settings. Live at [alvaschul.github.io/barbershop.github.io](https://alvaschul.github.io/barbershop.github.io/) | React 18, TypeScript, Vite, IndexedDB, Cloudflare D1 |
 | [**alvaagent**](https://github.com/alvaschul/alvaagent) | On-device AI agent harness for Android/Termux | Python |
 | [**termux-video-tools**](https://github.com/alvaschul/termux-video-tools) | Video processing tools for a phone-first workflow | Python |
 | [**hf-space-crypto-portfolio**](https://github.com/alvaschul/hf-space-crypto-portfolio) | Crypto portfolio tracker hosted as a Hugging Face Space | HTML, JavaScript |
