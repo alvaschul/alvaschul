@@ -79,8 +79,8 @@ I'm a barber in Indonesia — and I build software around the craft: an offline-
 ## 🔔 Recent Activity
 
 <!--START_SECTION:recent_activity-->
-- [alvaschul/alvaagent](https://github.com/alvaschul/alvaagent) &mdash; PushEvent _2026-11-10_
-- [alvaschul/alvaagent](https://github.com/alvaschul/alvaagent) &mdash; CreateEvent _2026-11-10_
+- [alvaschul/makefun-ai-joke-03](https://github.com/alvaschul/makefun-ai-joke-03) &mdash; PushEvent _2026-11-13_
+- [alvaschul/makefun-tiny-chess-01](https://github.com/alvaschul/makefun-tiny-chess-01) &mdash; PushEvent _2026-11-13_
 - [alvaschul/alvaagent](https://github.com/alvaschul/alvaagent) &mdash; PushEvent _2026-11-10_
 - [alvaschul/alvaagent](https://github.com/alvaschul/alvaagent) &mdash; CreateEvent _2026-11-10_
 - [alvaschul/alvaagent](https://github.com/alvaschul/alvaagent) &mdash; PushEvent _2026-11-10_
@@ -100,5 +100,5 @@ Open to collaborating on **agent tooling**, **small-business software** (POS, tr
 > *Real tools for real work — built from a barber chair in Indonesia.*
 
 <!--START_SECTION:last_updated-->
-<p align="center"><sub>Last updated: 2026-11-13</sub></p>
+<p align="center"><sub>Last updated: 2026-11-14</sub></p>
 <!--END_SECTION:last_updated-->
