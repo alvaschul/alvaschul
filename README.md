@@ -79,11 +79,11 @@ I'm a barber in Indonesia — and I build software around the craft: an offline-
 ## 🔔 Recent Activity
 
 <!--START_SECTION:recent_activity-->
+- [alvaschul/makefun-gta6-cover-art-01](https://github.com/alvaschul/makefun-gta6-cover-art-01) &mdash; PushEvent _2026-11-19_
+- [alvaschul/makefun-gta6-trophy-guide-01](https://github.com/alvaschul/makefun-gta6-trophy-guide-01) &mdash; PushEvent _2026-11-19_
+- [alvaschul/makefun-gta6-cover-art-01](https://github.com/alvaschul/makefun-gta6-cover-art-01) &mdash; PushEvent _2026-11-19_
+- [alvaschul/makefun-gta6-trophy-guide-01](https://github.com/alvaschul/makefun-gta6-trophy-guide-01) &mdash; CreateEvent _2026-11-19_
 - [alvaschul/makefun-gta6-01](https://github.com/alvaschul/makefun-gta6-01) &mdash; PushEvent _2026-11-18_
-- [alvaschul/makefun-gta6-01](https://github.com/alvaschul/makefun-gta6-01) &mdash; PushEvent _2026-11-19_
-- [alvaschul/makefun-bring-the-humans-02](https://github.com/alvaschul/makefun-bring-the-humans-02) &mdash; PushEvent _2026-11-19_
-- [alvaschul/makefun-gta6-01](https://github.com/alvaschul/makefun-gta6-01) &mdash; PushEvent _2026-11-18_
-- [alvaschul/makefun-gta6-01](https://github.com/alvaschul/makefun-gta6-01) &mdash; CreateEvent _2026-11-18_
 <!--END_SECTION:recent_activity-->
 
 ---
@@ -100,5 +100,5 @@ Open to collaborating on **agent tooling**, **small-business software** (POS, tr
 > *Real tools for real work — built from a barber chair in Indonesia.*
 
 <!--START_SECTION:last_updated-->
-<p align="center"><sub>Last updated: 2026-11-19</sub></p>
+<p align="center"><sub>Last updated: 2026-11-20</sub></p>
 <!--END_SECTION:last_updated-->
